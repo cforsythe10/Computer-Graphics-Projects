@@ -1,0 +1,9 @@
+This program was written with Java in Eclipse on a machine running Windows 10. All preparation for the submission besides the java file was prepared with a remote
+connection to TUX.
+
+Run the code by entering "make" from the command line and then "./CG_hw5 <Arguments>"
+
+Main is contained in CG_hw5.java
+
+The program has all features asked for by the assignment. All transformations and mapping appear to be working well. The only issue that I have run into with my code
+is that the calculation for Z seems to be a little inconsistent, causing some spottiness in the shading as well as some very minor issues with overlapping meshes.

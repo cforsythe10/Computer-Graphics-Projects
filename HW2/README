@@ -1,0 +1,3 @@
+The line clipping has been depricated, will try to fix before next assignment is due. 
+
+The polygon seems to have issues with certain transformations but works fine on others.

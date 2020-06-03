@@ -1,0 +1,5 @@
+My code does seem to fill polygons properly but only when they are completely in the world window,
+clipping by itself works, however the scan-fill algorithm breaks on lines outside the world window.
+
+Otherwise everything seems to work well besides the transformations which largely haven't been fixed.
+

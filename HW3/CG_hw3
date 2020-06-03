@@ -1,0 +1,2 @@
+#!/bin/bash
+./CG_hw3.jar "$@"

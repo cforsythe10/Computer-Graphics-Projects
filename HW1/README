@@ -1,0 +1,14 @@
+This is my (Chris Forsythe's) work for HW1, clipped lines. I wrote it in Java and tested it on my personal laptop with Eclipse Java Oxygen.
+I then moved the program to tux to test on that server as well as prepare the makefile.
+
+The only file containing code for this assignment is "main.java".
+
+To compile/run the program, you must run "make" which will create an executable .jar flle, which can be run from the command line.
+
+You may also use "make clean" to remove the compiled class file after this.
+
+To run with arguments you must format the run command as below:
+make run ARGS="<arguments>"
+
+I should mention that the transformations work for the most part however certain transformations may cause some less than ideal line drawings or a couple lines to not
+appear, I do plan to fix this before the next assignment.                                                                                                                                                                             

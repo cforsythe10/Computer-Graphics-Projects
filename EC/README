@@ -1,0 +1,9 @@
+This project was developed in Java using Eclipse on a machine running Windows 10. All other preparation (makefile and script) was done with a remote connection to tux.
+
+To run the program from commandline, run "make" and then "./CG_hwEC <arguments>"
+
+This program accepts the moveto, curveto, and Line in the simplified postscript format, sent to the program from a file specified at command line.
+
+This project accepts all specified command line arguments and all translations/mapping work well.
+
+The line drawing algorithm seems to be struggling with parts of certain curves causing it to not draw the curves completely correctly, though it is fairly close.

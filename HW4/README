@@ -1,0 +1,6 @@
+I spent the weekend refactoring almost all of my code, this time as far as I'm aware everything works very well. The program has parallel and perspective projection and 
+backface culling implemented with all specified command line arguments working as intended. The program only parses smf files as nearly all old code has been removed. 
+I used Java to wite this on a Windows machine, sent everything to tux, and wrote all other code to compile/run the program there.
+
+The code compiles with javac, just run make on the command line to get an executable jar file, then run ./CG_hw4 <args> > {filename}. The script will execute the jar and
+it will generate a file with the name specified. The file containing main is CG_hw4.java.
